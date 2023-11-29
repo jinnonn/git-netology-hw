@@ -68,3 +68,4 @@ https://github.com/jinnonn/git-netology-hw/commit/eeea059d99d1c0502fd4075f1828bf
 
 ### Решение 3
 
+https://github.com/jinnonn/git-netology-hw/network
